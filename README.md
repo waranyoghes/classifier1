@@ -1,1 +1,1 @@
-Demo bear classifier with fastai and Voila
+bear classifier with fastai and Voila
